@@ -1,5 +1,5 @@
 # ASUS A416JA Hackintosh i3 10th gen
-<img src="https://raw.githubusercontent.com/yavernoxia/A416JA-Hackintosh/main/Sonoma.jpg" alt="macOS Sonoma">
+<img src="https://raw.githubusercontent.com/yavernoxia/A416JA-Hackintosh/refs/heads/main/Sonoma.jpg" alt="macOS Sonoma">
 
 ## ASUS A416JA SPECS
 
